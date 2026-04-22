@@ -1,6 +1,0 @@
-streamlit 
-ib_async 
-pandas 
-numpy
-TA-Lib 
-plotly
